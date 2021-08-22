@@ -1,0 +1,4 @@
+newline_style = "Windows"
+report_todo = "Always"
+report_fixme = "Always"
+edition = "2018"
